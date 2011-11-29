@@ -1,0 +1,9 @@
+
+<!-- ===================== -->
+<!-- = Maintance-Scripts = -->
+<!-- ===================== -->
+
+These are scripts which may be usefull under certain circumstances but should 
+not be used on a regular base.
+
+WARNING: Take extra care before starting a script from this folder!!
